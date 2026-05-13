@@ -5,7 +5,6 @@ A classic Tetris game built in C++ using raylib.
 ## Author
 
 Saifullah-232023
-git remote add origin https://github.com/Saifi232023/Tetris-FSP.git
 
 ## Features
 
